@@ -1,0 +1,3 @@
+module curso {
+	exports aplicacao;
+}
